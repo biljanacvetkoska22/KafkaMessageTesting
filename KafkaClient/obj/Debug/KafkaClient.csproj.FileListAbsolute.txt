@@ -1,0 +1,7 @@
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\bin\Debug\KafkaClient.exe.config
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\bin\Debug\KafkaClient.exe
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\bin\Debug\KafkaClient.pdb
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\bin\Debug\kafka-net.dll
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\obj\Debug\KafkaClient.exe
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\obj\Debug\KafkaClient.pdb
+d:\users\user\documents\visual studio 2015\Projects\ClientBrokerWithKafka\KafkaClient\obj\Debug\KafkaClient.csprojResolveAssemblyReference.cache
